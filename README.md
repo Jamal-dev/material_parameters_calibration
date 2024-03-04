@@ -9,7 +9,7 @@ This project is dedicated to the calibration of material parameters based on the
 - Incorporates material anisotropy by allowing the specification of fiber direction.
 - Utilizes a customizable mathematical description for $\Psi$, accommodating a range of hyperelastic models.
 
-  [!gui_layout](data/gui_layout.png)
+  ![gui_layout]([data/gui_layout.png](https://github.com/Jamal-dev/material_parameters_calibration/blob/main/data/gui_layout.png))
 
 ## Mathematical Model
 
